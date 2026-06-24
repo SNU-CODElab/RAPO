@@ -2,16 +2,15 @@
 
 This repository contains the official implementation of **RAPO: Retrieval-Augmented Phase Ordering**, published at **LCTES 2026**.
 
-> [!NOTE]
-> The source code and documentation are currently under preparation and will be released soon.
-
 ## Prerequisites
 
 The experiments in the paper were conducted using:
 
 * Linux
 * Clang/LLVM 10.0.0
-* CompilerGym 0.2.5
+* Python 3.8
+* CompilerGym 0.2.5 (https://github.com/facebookresearch/compilergym)
+* SLTrans Dataset (https://huggingface.com/datasets/UKPLab/SLTrans)
 
 ## Paper
 
